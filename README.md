@@ -11,7 +11,7 @@ Basic IBM Cloud Mobile Starter in Java
 * [Requirements](#requirements)
 * [Configuration](#configuration)
 * [Run](#run)
-* [License](#license)
+* [License](#license) 
    
 ### Summary
 
