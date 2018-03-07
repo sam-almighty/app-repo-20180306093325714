@@ -34,6 +34,7 @@ The Basic IBM Cloud Mobile Starter project has integration points (by default) f
 
 ### Run
 
+
 Click **Run** to start the app in Android Studio.
 
 <img src="README_Images/basic.png" alt="Basic App Screenshot" width="250px"/>
